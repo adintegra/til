@@ -2,3 +2,13 @@ baseURL = 'http://example.org/'
 languageCode = 'en-gb'
 title = 'Today I Learned'
 theme = 'hugo-book'
+
+enableGitInfo = true
+
+[params]
+
+  BookSection = '*'
+
+  # Set source repository location.
+  # Used for 'Last Modified' and 'Edit this page' links.
+  BookRepo = 'https://github.com/adintegra/til'
