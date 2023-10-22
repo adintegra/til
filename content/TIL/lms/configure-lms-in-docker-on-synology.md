@@ -8,4 +8,4 @@ Because Synology DSM comes with an old version of Logitech Media Server, I chose
 
 Configuration required some tweaking to get working (especially permissions), but once set up it runs well.
 
-![LMS Docker Configuration](/images/docker-lms.png)
+![LMS Docker Configuration](/til/images/docker-lms.png)

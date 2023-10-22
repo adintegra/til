@@ -3,6 +3,7 @@ languageCode = 'en-gb'
 title = 'Today I Learned'
 theme = 'hugo-book'
 
+disablePathToLower = true
 enableGitInfo = true
 
 [params]
