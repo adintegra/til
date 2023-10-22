@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://adintegra.github.io/til'
 languageCode = 'en-gb'
 title = 'Today I Learned'
 theme = 'hugo-book'
